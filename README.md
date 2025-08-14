@@ -50,16 +50,24 @@ Developed a system to manage book inventory, user records, and borrowing logs. F
 Designed and implemented ETL workflows using AWS Glue, automating the processing of retail sales data and reducing data preparation time by 30%, enabling the team to focus on strategic analysis.
 
 Developed Python and SQL scripts to analyze transactional data, enabling seamless integration with Tableau for tracking critical metrics like monthly sales growth and inventory turnover, which supported team decision-making.
+
 Built interactive Tableau dashboards that improved the visibility of retail KPIs, leading to a 15% enhancement in team efficiency for sales and inventory management.
+
 Collaborated with cross-functional teams, including marketing, supply chain, and finance, to deliver data-driven insights, improving promotional strategies and inventory allocation by 20%.
+
 Led the automation of weekly sales and performance reporting using Python, reducing manual effort by 40% and ensuring timely updates for team discussions and decision-making.
+
 Utilized SAS for statistical analysis, model building, and generating automated insights reports across marketing datasets.
+
 Recognized with the ACE and Spotlight awards for driving teamwork and delivering impactful solutions that enhanced sales forecasting and inter-departmental collaboration.
 
 - **Big Data Intern, ICT Academy**  
 Utilized R and packages such as dplyr and tidyr to efficiently clean, transform, and prepare weather datasets for advanced analysis and forecasting.
+
 Conducted comprehensive exploratory data analysis (EDA) on weather-related datasets, including temperature, precipitation, and humidity, to uncover key drivers of weather patterns.
+
 Cleaned and preprocessed raw weather data, resolving missing values, inconsistencies, and anomalies to ensure high quality data for analysis.
+
 Developed interactive dashboards in Power BI to visualize critical weather metrics, such as temperature variations and precipitation patterns, enabling stakeholders to make informed decisions.
 
 ---
