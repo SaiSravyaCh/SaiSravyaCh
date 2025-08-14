@@ -47,6 +47,7 @@ Developed a system to manage book inventory, user records, and borrowing logs. F
 ## 🏆 Professional Experience Highlights
 
 - **Data Analyst Intern, Accenture**  
+
 Designed and implemented ETL workflows using AWS Glue, automating the processing of retail sales data and reducing data preparation time by 30%, enabling the team to focus on strategic analysis.
 
 Developed Python and SQL scripts to analyze transactional data, enabling seamless integration with Tableau for tracking critical metrics like monthly sales growth and inventory turnover, which supported team decision-making.
@@ -62,6 +63,7 @@ Utilized SAS for statistical analysis, model building, and generating automated 
 Recognized with the ACE and Spotlight awards for driving teamwork and delivering impactful solutions that enhanced sales forecasting and inter-departmental collaboration.
 
 - **Big Data Intern, ICT Academy**  
+
 Utilized R and packages such as dplyr and tidyr to efficiently clean, transform, and prepare weather datasets for advanced analysis and forecasting.
 
 Conducted comprehensive exploratory data analysis (EDA) on weather-related datasets, including temperature, precipitation, and humidity, to uncover key drivers of weather patterns.
