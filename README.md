@@ -48,7 +48,9 @@ Developed a system to manage book inventory, user records, and borrowing logs. F
 
 - **Data Analyst Intern, Accenture**  
 Designed and implemented ETL workflows using AWS Glue, automating the processing of retail sales data and reducing data preparation time by 30%, enabling the team to focus on strategic analysis.
+
 Developed Python and SQL scripts to analyze transactional data, enabling seamless integration with Tableau for tracking critical metrics like monthly sales growth and inventory turnover, which supported team decision-making.
+
 Built interactive Tableau dashboards that improved the visibility of retail KPIs, leading to a 15% enhancement in team efficiency for sales and inventory management.
 Collaborated with cross-functional teams, including marketing, supply chain, and finance, to deliver data-driven insights, improving promotional strategies and inventory allocation by 20%.
 Led the automation of weekly sales and performance reporting using Python, reducing manual effort by 40% and ensuring timely updates for team discussions and decision-making.
